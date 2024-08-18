@@ -1,0 +1,20 @@
+#number{
+    font-size: 12em;
+    text-align:center ;
+    display: block;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container{
+   
+    text-align: center;
+    display: block;
+}
+button{
+    font-size: 2em;
+    color: hsl(60, 90%, 51%);
+    transition: background-color 0.25s;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgba(91, 18, 246, 0.786);
+    padding: 10px, 20px;
+}
