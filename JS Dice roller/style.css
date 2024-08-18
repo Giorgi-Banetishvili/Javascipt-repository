@@ -1,0 +1,41 @@
+#container {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size:2rem ;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(107, 107, 235);
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+button:hover{
+    background-color: aqua;
+}
+
+button:active{
+    background-color:blueviolet ;
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#result{
+margin: 25px;
+}
+
+#images img{
+width: 150px;
+height: 150px;
+margin: 5px;
+}
