@@ -1,0 +1,17 @@
+body{
+   
+    text-align: center;
+    font-family: cursive;
+}
+
+
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+   
+
+}
+#mylabel{
+    font-size: 3em;
+}
